@@ -14,7 +14,7 @@ The application uses:
 
 ## 🎥 Video Demo
 
-▶️ Watch the full video demo here: [https://youtu.be/e2Ahp6QTwBU](https://youtu.be/e2Ahp6QTwBU)
+▶️ Watch the full video demo here: [https://youtu.be/e2Ahp6QTwBU]
 
 ## 🚀 Features
 
@@ -54,7 +54,7 @@ Follow these steps to run the app locally on your machine:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/PrinceSuthar0001/cs50-final-project
+git clone https://github.com/PrinceSuthar0001/Youtube-Video-Downloader
 cd cs50-final-project
 ```
 
